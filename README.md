@@ -1,7 +1,7 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas
 
 
-💻 Interesse em:
+Interesse em:
 - Desenvolvimento de Jogos
 - Backend
 - Desenvolvimento Web
@@ -20,11 +20,10 @@
 
 ## Projetos em destaque
 
-🔹 Climber Puncher
-🔹 Sistema Web para Cadastro de Jogadores
-🔹 Projetos da Faculdade
+ Sistema Web para Cadastro de Jogadores
+ Projetos da Faculdade
 
 ## Contato
 
-LinkedIn:https://www.linkedin.com/in/gabrielfoliveiram/
+LinkedIn: https://www.linkedin.com/in/gabrielfoliveiram/
 Email: gabrielf.oliveiram@gmail.com
