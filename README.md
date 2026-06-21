@@ -1,64 +1,26 @@
 # Gabriel Oliveira
 
-Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas
+Software Development Student
 
-Olá! Sou estudante de ADS e tenho interesse em desenvolvimento de software, backend, bancos de dados e soluções web.
+Building projects, learning new technologies, and improving my development skills every day.
 
-Atualmente busco expandir meus conhecimentos através de projetos práticos, estudos contínuos e participação em iniciativas que me permitam evoluir tecnicamente e profissionalmente.
+### Tech Stack
 
-## Tecnologias
+Java • JavaScript • C# • SQL • HTML • CSS • Git
 
-### Linguagens
+### Interests
 
-* Java
-* JavaScript
-* C#
-* SQL
+* Backend Development
+* Web Development
+* Databases
+* Software Engineering
 
-### Desenvolvimento Web
+### Currently Working On
 
-* HTML
-* CSS
-* JavaScript
+* Academic Projects
+* Personal Projects
+* Data Structures & Algorithms
 
-### Banco de Dados
+### Connect With Me
 
-* MySQL
-* Modelagem de Dados
-
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* IntelliJ IDEA
-
-## Projetos em Destaque
-
-### Sistema de Gestão
-
-Aplicação voltada para gerenciamento de informações com persistência em banco de dados.
-
-### Aplicação Web
-
-Projeto desenvolvido utilizando HTML, CSS e JavaScript com foco em boas práticas de desenvolvimento.
-
-### Estudos de Estruturas de Dados
-
-Implementações de algoritmos e estruturas fundamentais para desenvolvimento de software.
-
-## Atualmente Estudando
-
-* Estruturas de Dados
-* Engenharia de Software
-* Banco de Dados
-* Desenvolvimento Backend
-* Arquitetura de Software
-
-## Contato
-
-LinkedIn:
-[www.linkedin.com/in/gabrielfoliveiram](http://www.linkedin.com/in/gabrielfoliveiram)
-
-GitHub:
-github.com/gabrielfoliveiram
+LinkedIn: [www.linkedin.com/in/gabrielfoliveiram](http://www.linkedin.com/in/gabrielfoliveiram)
