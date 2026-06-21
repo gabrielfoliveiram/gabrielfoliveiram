@@ -1,16 +1,30 @@
-## Hi there 👋
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-<!--
-**gabrielfoliveiram/gabrielfoliveiram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Interesse em:
+- Desenvolvimento de Jogos
+- Backend
+- Desenvolvimento Web
+- Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- C#
+- Godot
+- GDScript
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+## Projetos em destaque
+
+🔹 Climber Puncher
+🔹 Sistema Web para Cadastro de Jogadores
+🔹 Projetos da Faculdade
+
+## Contato
+
+LinkedIn:https://www.linkedin.com/in/gabrielfoliveiram/
+Email: gabrielf.oliveiram@gmail.com
